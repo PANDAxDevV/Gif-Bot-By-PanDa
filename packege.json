@@ -5,9 +5,9 @@
   "name": "hello-express",
   "version": "0.0.1",
   "description": "A simple Node app built on Express, instantly up and running.",
-  "main": "aydin.js",
+  "main": "panda.js",
   "scripts": {
-    "start": "node aydin.js"
+    "start": "node panda.js"
   },
   "dependencies": {
     "express": "^4.17.1",
@@ -23,7 +23,7 @@
     "node": "12.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/hello-express"
+    "url": "https://github.com/PANDAxDevV/Gif-Bot-By-PanDa"
   },
   "license": "GPL-3.0",
   "keywords": [
